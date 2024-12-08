@@ -5,9 +5,13 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image:url('https://img.freepik.com/foto-gratis/fondo-abstracto-conexiones-red_1048-7961.jpg?t=st=1733685979~exp=1733689579~hmac=bf3684f5c8b65e55ef38039b27d887dba7414ed3e03770ad72e36d622d60d96e&w=1060');
+  background-size: cover;
+  background-position: center;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
